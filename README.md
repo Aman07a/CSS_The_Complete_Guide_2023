@@ -39,3 +39,13 @@
 #### Combinators – Descendant
 
 ![slides_max-combinators-5](https://github.com/Aman07a/CSS_The_Complete_Guide_2023/assets/60389872/0015ac86-ff64-4e19-8712-3e17cf1886bf)
+
+### Properties & Selectors
+
+#### Selectors, Properties, Value
+
+![slides_max-value-types-1](https://github.com/Aman07a/CSS_The_Complete_Guide_2023/assets/60389872/3e24ffc1-5a9c-4c58-ae82-2f587517e044)
+
+#### Value Types
+
+![slides_max-value-types-2](https://github.com/Aman07a/CSS_The_Complete_Guide_2023/assets/60389872/4e7a5ffd-4def-4f2f-b1c2-faf0f90383ee)
