@@ -11,6 +11,7 @@
 ### More about Selectors
 
 ![slides_max-selectors-1](https://github.com/Aman07a/CSS_The_Complete_Guide_2023/assets/60389872/a928d4bc-312f-41fe-8745-b831ad1217ad)
+
 ![slides_max-selectors-2](https://github.com/Aman07a/CSS_The_Complete_Guide_2023/assets/60389872/883fdedb-7442-4d7d-9195-ec8b158cab20)
 
 ### Inheritance
