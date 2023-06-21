@@ -53,3 +53,9 @@
 ### Summary
 
 ![slides_max-summary-1](https://github.com/Aman07a/CSS_The_Complete_Guide_2023/assets/60389872/46d848b0-5f18-4868-887f-8908a32b0745)
+
+## 3: Diving Deeper into CSS
+
+### The Box Model
+
+![slides_max-box-model-1](https://github.com/Aman07a/CSS_The_Complete_Guide_2023/assets/60389872/9f9c662e-8b3c-4921-9217-7c5fb8536a8e)
