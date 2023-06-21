@@ -59,3 +59,7 @@
 ### The Box Model
 
 ![slides_max-box-model-1](https://github.com/Aman07a/CSS_The_Complete_Guide_2023/assets/60389872/9f9c662e-8b3c-4921-9217-7c5fb8536a8e)
+
+### Margin Collapsing
+
+![slides_max-margin-collapsing-1](https://github.com/Aman07a/CSS_The_Complete_Guide_2023/assets/60389872/6a7c6378-88ae-404d-9912-a22592b821a5)
