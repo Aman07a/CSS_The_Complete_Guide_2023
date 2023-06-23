@@ -1,20 +1,34 @@
-* {
-  font-family: "Montserrat", sans-serif;
-}
-
-#product-overview {
-  background: #ff1b68;
-}
-
-.section-title {
-  color: #2ddf5c;
-}
-
-#product-overview h1 {
-  color: white;
-  font-family: "Anton", sans-serif;
-}
-
-h1 {
+body {
   font-family: sans-serif;
+}
+
+nav {
+  margin-bottom: 16px;
+  background: #fa923f;
+  padding: 8px 0;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  margin: 10px;
+}
+
+a.active {
+  color: #521751;
+}
+
+a:not(.active) {
+  color: blue;
+}
+
+.main-section {
+  height: 800px;
+  border: 1px solid #ccc !important;
+  padding: 16px;
+}
+
+.highlighted {
+  border: 2px solid #fa923f;
+  height: 200px;
 }
