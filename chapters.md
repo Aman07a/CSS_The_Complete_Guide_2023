@@ -4,3 +4,4 @@ Finished Chapters:
 - Chapter 2: Diving Into the Basics of CSS
 - Chapter 3: Diving Deeper into CSS
 - Chapter 4: More on Selectors & CSS Features
+- Chapter 5: Practicing the Basics
