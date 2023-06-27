@@ -67,3 +67,25 @@
 ### Shorthand Properties
 
 ![slides_max-shorthand-properties-1](https://github.com/Aman07a/CSS_The_Complete_Guide_2023/assets/60389872/fae1a8cf-5775-4f99-900c-cdc193dc56cc)
+
+## 4: More on Selectors & CSS Features
+
+## 5: Practicing the Basics
+
+## 6: Positioning Elements with CSS
+
+### Positioning
+
+![position-slides-1](https://github.com/Aman07a/CSS_The_Complete_Guide_2023/assets/60389872/94bebaf4-a81c-469b-a818-4a7862ffed13)
+
+### Positioning Elements
+
+![position-slides-2](https://github.com/Aman07a/CSS_The_Complete_Guide_2023/assets/60389872/eff37656-3cab-4541-91bf-e1e0de32857d)
+
+### Changing the Position
+
+![position-slides-3](https://github.com/Aman07a/CSS_The_Complete_Guide_2023/assets/60389872/f7d5d7df-9ae1-4322-ae3d-c4e2520454ea)
+
+### Summary
+
+![position-slides-4](https://github.com/Aman07a/CSS_The_Complete_Guide_2023/assets/60389872/6df5d346-e9db-4a9d-9031-ec5b370511d4)
