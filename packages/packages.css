@@ -35,8 +35,12 @@ main {
 .package__badge {
   position: absolute;
   top: 0;
-  left: 400px;
+  right: 0;
   margin: 20px;
+  font-size: 12px;
+  color: white;
+  background: #ff5454;
+  padding: 8px;
 }
 
 .package__subtitle {
