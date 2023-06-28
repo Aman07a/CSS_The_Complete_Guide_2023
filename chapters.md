@@ -6,3 +6,4 @@ Finished Chapters:
 - Chapter 4: More on Selectors & CSS Features
 - Chapter 5: Practicing the Basics
 - Chapter 6: Positioning Elements with CSS
+- Chapter 7: Understanding Background Images & Images

@@ -89,3 +89,7 @@
 ### Summary
 
 ![position-slides-4](https://github.com/Aman07a/CSS_The_Complete_Guide_2023/assets/60389872/6df5d346-e9db-4a9d-9031-ec5b370511d4)
+
+### The Background Property
+
+![background-properties-1](https://github.com/Aman07a/CSS_The_Complete_Guide_2023/assets/60389872/25d28125-e22b-42c6-8ea2-a4555821aae7)
