@@ -93,3 +93,39 @@
 ### The Background Property
 
 ![background-properties-1](https://github.com/Aman07a/CSS_The_Complete_Guide_2023/assets/60389872/25d28125-e22b-42c6-8ea2-a4555821aae7)
+
+## 7: Understanding Background Images & Images
+
+## 8: Sizes & Units
+
+### Dimensions, Sizes & Units
+
+![units-slides-1](https://github.com/Aman07a/CSS_The_Complete_Guide_2023/assets/60389872/87d67232-3113-4c9b-b596-ada07f137fa8)
+
+### Pixels, Percentages & More
+
+![units-slides-2](https://github.com/Aman07a/CSS_The_Complete_Guide_2023/assets/60389872/a2048e8f-09d9-493b-889c-5aca1920969c)
+
+### Where Units Matter
+
+![units-slides-3](https://github.com/Aman07a/CSS_The_Complete_Guide_2023/assets/60389872/882ac6e7-bd77-41e2-ae4f-f5a6f6b18fca)
+
+### How is the Size Calculated?
+
+![units-slides-4](https://github.com/Aman07a/CSS_The_Complete_Guide_2023/assets/60389872/1639e5ec-6aa8-4034-8106-b5389d7ee478)
+
+### How is the Box Size for % Units Calculated?
+
+![units-slides-5](https://github.com/Aman07a/CSS_The_Complete_Guide_2023/assets/60389872/70cc5bd8-759c-415b-8361-126c335769c9)
+
+### 3 Rules to Remember
+
+![units-slides-6](https://github.com/Aman07a/CSS_The_Complete_Guide_2023/assets/60389872/1f7eaec9-2262-4b9d-90ec-bead0da76e59)
+
+### Which Unit Should I Choose?
+
+![units-slides-7](https://github.com/Aman07a/CSS_The_Complete_Guide_2023/assets/60389872/f9949d4d-a534-4891-9d6f-e201a88a6b3a)
+
+### Summary
+
+![units-slides-8](https://github.com/Aman07a/CSS_The_Complete_Guide_2023/assets/60389872/99cab115-ea07-4f2c-adb7-f2b10c1f3122)
