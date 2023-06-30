@@ -7,3 +7,4 @@ Finished Chapters:
 - Chapter 5: Practicing the Basics
 - Chapter 6: Positioning Elements with CSS
 - Chapter 7: Understanding Background Images & Images
+- Chapter 8: Sizes & Units
