@@ -1,30 +1,9 @@
 #product-overview {
-  background: linear-gradient(to top, rgba(80, 68, 18, 0.6) 10%, transparent),
-    url("../images/freedom.jpg") left 10% bottom 70% / cover no-repeat
-      border-box,
-    #ff1b68;
-  /* background-image: url("../images/freedom.jpg");
-  background-size: cover;
-  background-position: left 10% bottom 20%; */
-  /* background-repeat: no-repeat;
-  background-origin: border-box;
-  background-clip: border-box; */
-  /* background-image: linear-gradient(
-    180deg,
-    red 70%,
-    blue 60%,
-    rgba(0, 0, 0, 0.5)
-  ); */
-  /* background-image: radial-gradient(
-    ellipse farthest-corner at 20% 50%,
-    red,
-    blue 70%,
-    green
-  ); */
-  width: 100vw;
-  height: 33vh;
-  margin-top: 2.75rem;
-  /* border: 5px dashed red; */
+  background: url("freedom.jpg");
+  width: 100%;
+  height: 528px;
+  padding: 10px;
+  margin-top: 43px;
   position: relative;
 }
 
@@ -50,8 +29,8 @@
 .plan {
   background: #d5ffdc;
   text-align: center;
-  padding: 1rem;
-  margin: 0.5rem;
+  padding: 16px;
+  margin: 8px;
   display: inline-block;
   width: 30%;
   vertical-align: middle;
@@ -66,7 +45,7 @@
 .plan__annotation {
   background: white;
   color: #19b84c;
-  padding: 0.5rem;
+  padding: 8px;
   box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.5);
   border-radius: 8px;
 }
@@ -94,18 +73,18 @@
 }
 
 .plan__feature {
-  margin: 0.5rem 0;
+  margin: 8px 0;
 }
 
 #key-features {
   background: #ff1b68;
-  margin-top: 5rem;
-  padding: 1rem;
+  margin-top: 80px;
+  padding: 16px;
 }
 
 #key-features .section-title {
   color: white;
-  margin: 2rem;
+  margin: 32px;
 }
 
 .key-feature__list {
@@ -128,14 +107,13 @@
   border: 2px solid #424242;
   border-radius: 50%;
   margin: auto;
-  padding: 1.5rem;
 }
 
 .key-feature__description {
   text-align: center;
   font-weight: bold;
   color: white;
-  font-size: 1.2rem;
+  font-size: 20px;
 }
 
 /* h1 {
