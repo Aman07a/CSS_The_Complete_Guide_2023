@@ -12,3 +12,20 @@ for (var i = 0; i < selectPlanButtons.length; i++) {
     backdrop.style.display = "block";
   });
 }
+
+backdrop.addEventListener("click", function () {
+  mobileNav.style.display = "none";
+  closeModal();
+});
+
+modalNoButton.addEventListener("click", closeModal);
+
+function closeModal() {
+  backdrop.style.display = "none";
+  modal.style.display = "none";
+}
+
+toggleButton.addEventListener("click", function () {
+  mobileNav.style.display = "block";
+  backdrop.style.display = "block";
+});
