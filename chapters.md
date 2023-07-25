@@ -8,3 +8,4 @@ Finished Chapters:
 - Chapter 6: Positioning Elements with CSS
 - Chapter 7: Understanding Background Images & Images
 - Chapter 8: Sizes & Units
+- Chapter 9: Working with JavaScript & CSS
