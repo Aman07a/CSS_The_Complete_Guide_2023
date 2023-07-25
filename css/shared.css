@@ -196,3 +196,7 @@ body {
 .mobile-nav__item a {
   font-size: 1.5rem;
 }
+
+.open {
+  display: block !important;
+}
