@@ -11,3 +11,4 @@ Finished Chapters:
 - Chapter 9: Working with JavaScript & CSS
 - Chapter 10: Making our Website Responsive
 - Chapter 11: Adding & Styling Forms
+- Chapter 12: Working with Text and Fonts
