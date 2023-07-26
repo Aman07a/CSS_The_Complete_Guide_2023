@@ -55,6 +55,8 @@ main {
   color: #0e4f1f;
   background: white;
   font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  font-style: italic;
 }
 
 .clearfix {
