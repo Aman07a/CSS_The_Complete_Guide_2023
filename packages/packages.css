@@ -67,7 +67,7 @@ main {
   background: white;
   font-family: "AnonymousPro", sans-serif;
   font-weight: 700;
-  line-height: 2;
+  text-shadow: 0px 0px 20px rgb(221, 128, 128);
 }
 
 .clearfix {
