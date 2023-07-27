@@ -12,3 +12,4 @@ Finished Chapters:
 - Chapter 10: Making our Website Responsive
 - Chapter 11: Adding & Styling Forms
 - Chapter 12: Working with Text and Fonts
+- Chapter 13: Adding Flexbox to our Project
