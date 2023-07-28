@@ -85,7 +85,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    text-align: center;
   }
 
   .plan {
@@ -146,7 +145,7 @@
     max-width: 25rem;
   }
 
-  key-feature__list {
+  .key-feature__list {
     display: flex;
     justify-content: center;
   }
