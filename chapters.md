@@ -13,3 +13,4 @@ Finished Chapters:
 - Chapter 11: Adding & Styling Forms
 - Chapter 12: Working with Text and Fonts
 - Chapter 13: Adding Flexbox to our Project
+- Chapter 14: Using the CSS Grid
