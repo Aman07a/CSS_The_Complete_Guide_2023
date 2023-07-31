@@ -16,3 +16,4 @@ Finished Chapters:
 - Chapter 14: Using the CSS Grid
 - Chapter 15: Transforming Elements with CSS Transforms
 - Chapter 16: Transitions & Animations in CSS
+- Chapter 17: Writing Future-Proof CSS Code
