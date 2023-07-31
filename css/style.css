@@ -1,4 +1,4 @@
-@import url(./typography.css);
+@import url(typography.css);
 html {
   font-size: 94.75%; }
 
@@ -25,8 +25,9 @@ body {
   box-shadow: 0.2rem 0.2rem 0.1rem #ccc;
   width: 90%;
   box-sizing: border-box; }
-  .sass-introduction p {
-    margin: 0; }
+
+.sass-introduction p {
+  margin: 0; }
 
 .sass-details {
   border: 0.05rem solid #521751;
@@ -39,8 +40,9 @@ body {
 
 .section-header {
   border-bottom: 0.05rem solid #521751; }
-  .section-header h1 {
-    margin: 0 0 1rem 0; }
+
+.section-header h1 {
+  margin: 0 0 1rem 0; }
 
 .documentation-links {
   list-style: none;
@@ -60,15 +62,17 @@ body {
     display: block;
     padding: 0.2rem;
     border: 0.05rem solid #521751; }
-    .documentation-links .documentation-link:hover, .documentation-links .documentation-link:active {
-      color: white;
-      background: #fa923f;
-      border-color: #fa923f; }
+  .documentation-links .documentation-link:hover,
+  .documentation-links .documentation-link:active {
+    color: white;
+    background: #fa923f;
+    border-color: #fa923f; }
 
 @media (min-width: 40rem) {
   html {
     font-size: 125%; }
   .container {
     padding: 3rem 0; }
-  .sass-introduction, .sass-details {
+  .sass-introduction,
+  .sass-details {
     width: 30rem; } }
