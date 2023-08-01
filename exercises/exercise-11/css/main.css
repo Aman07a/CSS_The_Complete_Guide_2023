@@ -3,7 +3,7 @@ html {
   font-size: 94.75%; }
   @media (min-width: 40rem) {
     html {
-      width: 30rem; } }
+      font-size: 125%; } }
 
 body {
   font-family: Arial, sans-serif;
