@@ -18,3 +18,4 @@ Finished Chapters:
 - Chapter 16: Transitions & Animations in CSS
 - Chapter 17: Writing Future-Proof CSS Code
 - Chapter 18: Introducing Sass (Syntactically Awesome Style Sheets)
+- Chapter 19: Course Roundup
