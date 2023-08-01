@@ -11,6 +11,10 @@ $size-tiny: 0.2rem;
 
 html {
   font-size: 94.75%;
+
+  @media (min-width: 40rem) {
+    width: 30rem;
+  }
 }
 
 body {
@@ -40,6 +44,10 @@ body {
   box-shadow: $size-tiny $size-tiny 0.1rem #ccc;
   width: 90%;
   box-sizing: border-box;
+
+  @media (min-width: 40rem) {
+    width: 30rem;
+  }
 }
 
 .sass-introduction p {
@@ -54,6 +62,10 @@ body {
   margin: 2rem 0;
   width: 90%;
   box-sizing: border-box;
+
+  @media (min-width: 40rem) {
+    width: 30rem;
+  }
 }
 
 .section-header {
