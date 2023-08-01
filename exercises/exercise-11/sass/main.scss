@@ -2,10 +2,23 @@
 
 @import "typography.scss";
 
+@mixin display-flex() {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+}
+
+@mixin media-min-width($width) {
+  @media (min-width: $width) {
+    @content;
+  }
+}
+
 html {
   font-size: 94.75%;
 
-  @media (min-width: 40rem) {
+  @include media-min-width(40rem) {
     font-size: 125%;
   }
 }
@@ -16,10 +29,7 @@ body {
 }
 
 .container {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: -webkit-flex;
-  display: flex;
+  @include display-flex();
   flex: {
     direction: column;
     wrap: nowrap;
@@ -36,7 +46,7 @@ body {
   text-align: center;
   width: 90%;
   box-sizing: border-box;
-  @media (min-width: 40rem) {
+  @include media-min-width(40rem) {
     width: 30rem;
   }
 }
